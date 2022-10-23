@@ -1,0 +1,12 @@
+--exclude skip
+--console verbose
+--outputdir ./log
+--output output.xml
+--xunit xunit.xml
+--debugfile debug.txt
+--report report.html
+--log log.html
+--loglevel TRACE:INFO
+--exitonfailure
+--pythonpath ./customlibs
+./testsuites
