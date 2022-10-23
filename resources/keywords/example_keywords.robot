@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation     implementation of ARMA specific keywords
+Documentation     implementation of application specific keywords
 Resource          ../external/import_libraries.robot
 Resource          ../variables/global_variables.robot
 
